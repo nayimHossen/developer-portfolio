@@ -86,6 +86,7 @@ main {
   background-color: #fff8f3;
   padding: 100px 130px;
   text-align: center;
+  margin-top: 130px;
 }
 .section-title {
   text-align: center;
@@ -171,4 +172,31 @@ main {
 .resume-button {
   margin-top: 20px;
   text-align: center;
+}
+
+/* contact style */
+.contact {
+  display: flex;
+  gap: 100px;
+  background-color: #fff8f3;
+  padding: 130px 100px;
+  margin-top: 130px;
+}
+
+.contact .section-title {
+  text-align: left;
+}
+
+.contact input,
+textarea {
+  margin-bottom: 20px;
+  width: 100%;
+}
+
+.contact input {
+  height: 30px;
+}
+
+.contact p {
+  margin-bottom: 20px;
 }
