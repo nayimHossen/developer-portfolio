@@ -195,6 +195,9 @@ textarea {
 
 .contact input {
   height: 30px;
+  border-radius: 5px;
+  outline: none;
+  border: none;
 }
 
 .contact p {
