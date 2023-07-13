@@ -203,3 +203,16 @@ textarea {
 .contact p {
   margin-bottom: 20px;
 }
+
+.contact img {
+  background-color: rgb(211, 236, 170);
+  padding: 5px;
+  border-radius: 50%;
+}
+
+.btn-subscribe {
+  background-color: #fd6e0a;
+  color: white;
+  font-size: 18px;
+  font-weight: bold;
+}
